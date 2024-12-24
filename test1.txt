@@ -1,6 +1,5 @@
 xxxx
 yyyy
 zzzz
-bbbb
 aaaa
 cccc
